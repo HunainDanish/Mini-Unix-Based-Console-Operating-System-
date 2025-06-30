@@ -1,0 +1,7 @@
+/your-repo
+ ├── README.md
+ ├── main.cpp
+ ├── other_source_files.cpp
+ ├── Makefile (optional)
+ ├── /src (optional)
+ └── etc.
